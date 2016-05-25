@@ -2,16 +2,17 @@ body {
   background:#487;
   font-family: arial;
 }
-h1, h2, li {
+h1, h2 {
   color:white;  
 }
 h1 {
   font-size: 20;
 }
 a {
-  color:green;
+  color:red;
 }
-p {
+li {
+background:white;
 color:#222;
 padding:10px;
 }
