@@ -1,3 +1,17 @@
 body {
-  background:#247;
+  background:#487;
+  font-family: arial;
+}
+h1, h2, li {
+  color:white;  
+}
+h1 {
+  font-size: 20;
+}
+a {
+  color:green;
+}
+p {
+color:#222;
+padding:10px;
 }
