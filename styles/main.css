@@ -1,0 +1,36 @@
+* {
+   outline: 1px solid red !important;
+}
+
+/* Shared
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.row {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* top navigation
+---------------------------------------------------*/
+.button {
+  border-radius: 100px;
+  align-items: right;
+}
+
+/* banner
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.outer {
+    position: relative;
+    background: url(http://placekitten.com/700/250); width: 700px; height: 250px;">
+    width: 700px;
+    height: 250px;
+  }
+  .bottomleft {
+    position: absolute;
+    bottom: 0;
+    left: 0.5em;
+    width: 700px;
+    font-weight: bold;
+    color: #fff;
+  }
+
